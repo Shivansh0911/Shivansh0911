@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shivansh+%F0%9F%91%8B;Full-Stack+%26+ML+Engineer;BITS+Pilani+%E2%80%9928" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shivansh+%F0%9F%91%8B;Full-Stack+%26+ML+Engineer;BITS+Pilani+2023%E2%80%9328" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 ---
 
-B.Tech EEE @ BITS Pilani, Hyderabad (2028). I build full-stack web apps and ML-integrated systems. Currently interning at PeopleSense.AI, working on a real-time crowd analytics platform.
+B.Tech EEE @ BITS Pilani, Hyderabad (2023–28). I build full-stack web apps and ML-integrated systems. Currently interning at PeopleSense.AI, working on a real-time crowd analytics platform.
 
 ---
 

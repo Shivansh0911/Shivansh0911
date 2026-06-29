@@ -134,12 +134,13 @@ OS-based simulation project built in Python.
 </td>
 <td width="50%" valign="top">
 
-**[AgriTech AI](https://github.com/Shivansh0911/AgriTech_AI)**
+**[BITS GPT](https://github.com/Shivansh0911/BITSGPT)**
 
-Agricultural sensor data processing and analysis pipelines, built during research internship at Samvardhan Greenfields.
+RAG-based conversational assistant for BITS Pilani — answers campus queries using retrieval-augmented generation over college documents and resources.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
 
 </td>
 </tr>

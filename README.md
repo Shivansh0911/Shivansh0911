@@ -152,10 +152,6 @@ RAG-based conversational assistant for BITS Pilani — answers campus queries us
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivansh0911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh0911&theme=tokyonight&hide_border=true" />
 
 </div>

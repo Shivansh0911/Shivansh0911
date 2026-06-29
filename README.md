@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shivansh+%F0%9F%91%8B;Full-Stack+%26+ML+Engineer;BITS+Pilani+2023%E2%80%9328" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shivansh+%F0%9F%91%8B;Full-Stack+%26+ML+Engineer;BITS+Pilani+2023%E2%80%9328" alt="Typing SVG" />
 
 <br/>
 
@@ -12,6 +12,14 @@
 ---
 
 B.Tech EEE @ BITS Pilani, Hyderabad (2023–28). I build full-stack web apps and ML-integrated systems. Currently interning at PeopleSense.AI, working on a real-time crowd analytics platform.
+
+---
+
+## What I'm working on
+
+- **Glocal** — real-time crowd analytics platform (MERN + WebSockets) @ PeopleSense.AI
+- Exploring ML pipelines for sensor data and predictive modelling
+- Building event-driven systems with live data at BITS
 
 ---
 
@@ -63,15 +71,30 @@ B.Tech EEE @ BITS Pilani, Hyderabad (2023–28). I build full-stack web apps and
 
 ## Projects
 
-| Repo | What it is |
-|---|---|
-| [Libraryliveoccupancydashboard](https://github.com/Shivansh0911/Libraryliveoccupancydashboard) | Real-time occupancy tracking dashboard — TypeScript + live sensor data |
-| [Dpwh062tradepass](https://github.com/Shivansh0911/Dpwh062tradepass) | TradePass — AI export gateway for SMEs; built at DP World National Hackathon |
-| [VB_hackathon](https://github.com/Shivansh0911/VB_hackathon) | Hackathon project — Python |
-| [Placement_OS](https://github.com/Shivansh0911/Placement_OS) | OS-based placement simulation — Python |
-| [AgriTech_AI](https://github.com/Shivansh0911/AgriTech_AI) | Agricultural sensor data pipelines — TypeScript |
-| [TedexBPHC2025](https://github.com/Shivansh0911/TedexBPHC2025) | TEDx BITS Pilani 2025 website — TypeScript |
-| [portfolio](https://github.com/Shivansh0911/portfolio) | Personal portfolio site |
+<div align="center">
+
+<a href="https://github.com/Shivansh0911/ORIGO_app_website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=ORIGO_app_website&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shivansh0911/Dpwh062tradepass">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Dpwh062tradepass&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shivansh0911/Credit-scoring-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Credit-scoring-platform&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shivansh0911/Libraryliveoccupancydashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Libraryliveoccupancydashboard&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shivansh0911/Placement_OS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Placement_OS&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Shivansh0911/AgriTech_AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=AgriTech_AI&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -82,16 +105,19 @@ B.Tech EEE @ BITS Pilani, Hyderabad (2023–28). I build full-stack web apps and
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shivansh0911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh0911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh0911&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## A Few Things
+## Highlights
 
-- **SWE Intern @ PeopleSense.AI** — working on Glocal, a crowd analytics platform (MERN + WebSockets)
-- **SEEP 3.0 Winner** — 1st place among 150+ startups for Origo, an AI social platform
-- **AUTOwn'26** — 1st place for CyberBeat, a real-time cyber intelligence platform
-- **Student Achievement Award** — BITS Pilani Hyderabad, for live campus deployment at BITSAA Global Meet 2026
+- **Student Achievement Award** — Director, BITS Pilani Hyderabad *(Apr 2026)*
+- **AUTOwn'26 — 1st Place** — CyberBeat, real-time cyber intelligence platform *(Feb 2026)*
+- **SEEP 3.0 — 1st Prize** — Origo, among 150+ startups *(2024)*
 - **Tech & Ops Lead** @ ATMOS Tech Fest · **Ops Lead** @ TEDx BITS Pilani
 
 ---

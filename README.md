@@ -71,30 +71,79 @@ B.Tech EEE @ BITS Pilani, Hyderabad (2023–28). I build full-stack web apps and
 
 ## Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Shivansh0911/ORIGO_app_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=ORIGO_app_website&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shivansh0911/Dpwh062tradepass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Dpwh062tradepass&theme=tokyonight&hide_border=true" />
-</a>
+**[Origo — AI Social Platform](https://github.com/Shivansh0911/ORIGO_app_website)**
 
-<a href="https://github.com/Shivansh0911/Credit-scoring-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Credit-scoring-platform&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shivansh0911/Libraryliveoccupancydashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Libraryliveoccupancydashboard&theme=tokyonight&hide_border=true" />
-</a>
+MERN stack social platform with a Python ML microservice for friend-matching using cosine similarity on user-interest embeddings. Real-time feed via Socket.io.
 
-<a href="https://github.com/Shivansh0911/Placement_OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=Placement_OS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Shivansh0911/AgriTech_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh0911&repo=AgriTech_AI&theme=tokyonight&hide_border=true" />
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**[TradePass — SME Export Gateway](https://github.com/Shivansh0911/Dpwh062tradepass)**
+
+AI-powered export tool for SMEs — NLP-based HS code classification, compliance checking across 4 trade corridors, and carbon scoring. Built at DP World National Hackathon.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Credit Scoring Platform](https://github.com/Shivansh0911/Credit-scoring-platform)**
+
+Fintech ML pipeline using XGBoost + logistic regression for creditworthiness assessment. Exposed as a Flask REST API with versioned endpoints.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[Library Live Occupancy Dashboard](https://github.com/Shivansh0911/Libraryliveoccupancydashboard)**
+
+Real-time occupancy tracking and visualization from live sensor data. Built during internship at PeopleSense.AI for campus deployment at BITS.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Placement OS](https://github.com/Shivansh0911/Placement_OS)**
+
+OS-based simulation project built in Python.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[AgriTech AI](https://github.com/Shivansh0911/AgriTech_AI)**
+
+Agricultural sensor data processing and analysis pipelines, built during research internship at Samvardhan Greenfields.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 

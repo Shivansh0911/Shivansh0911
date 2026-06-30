@@ -162,8 +162,8 @@ RAG-based conversational assistant for BITS Pilani — answers campus queries us
 
 - **Student Achievement Award** — Director, BITS Pilani Hyderabad *(Apr 2026)*
 - **AUTOwn'26 — 1st Place** — CyberBeat, real-time cyber intelligence platform *(Feb 2026)*
-- **SEEP 3.0 — 1st Prize** — Origo, among 150+ startups *(2024)*
-- **Tech & Ops Lead** @ ATMOS Tech Fest · **Ops Lead** @ TEDx BITS Pilani
+- **SEEP 3.0 — 1st Prize** — Origo, among 150+ startups *(Oct 2025)*
+- **Tech & Ops Lead** @ ATMOS Tech Fest
 
 ---
 
